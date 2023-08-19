@@ -33,7 +33,3 @@ Sigue estos pasos para ejecutar la aplicación en tu entorno local:
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Si encuentras algún problema o tienes una mejora, siéntete libre de abrir un problema o enviar una solicitud de extracción.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo LICENSE.md para más detalles.
